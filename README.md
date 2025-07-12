@@ -1,4 +1,4 @@
-#Megat No Propagation: Training Neural Networks Without Backpropagation 🚀
+# Megat No Propagation: Training Neural Networks Without Backpropagation 🚀
 
 A comprehensive implementation and comparison of three **NoProp** variants - revolutionary neural network training methods that eliminate the need for backpropagation.
 
